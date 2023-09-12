@@ -1,0 +1,12 @@
+{
+  "name": "robbin-nosql-challenge-social-network-api",
+  "version": "1.0.0",
+  "description": "## Description Due to its speed and adaptability to unstructured data, MongoDB is a popular choice for many social networks.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

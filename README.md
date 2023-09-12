@@ -44,8 +44,6 @@ To install this application, clone the code into your terminal for the respectiv
 
 Note- I had to use npx nodemon server for mine to work
 
-
-
 ## Usage
 1. Install npm and dependencies: npm install
 2. Open Insomnia and test API GET, POST, PUT, and DELETE routes for thoughts, users, friends, and reactions
