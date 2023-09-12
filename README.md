@@ -42,8 +42,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 To install this application, clone the code into your terminal for the respective repository. Then, install npm by entering the command ```npm install```  into the terminal. Install express and mongoose by entering ```npm i express``` and ```npm i mongoose``` into the command line, respectively.
 
-Note- I had to use npx nodemon server for mine to work
-
 ## Usage
 1. Install npm and dependencies: npm install
 2. Open Insomnia and test API GET, POST, PUT, and DELETE routes for thoughts, users, friends, and reactions
