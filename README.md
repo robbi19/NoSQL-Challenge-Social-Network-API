@@ -61,5 +61,7 @@ To contribute to social-network, clone this repo locally and commit your code on
 
 
 Video: https://drive.google.com/file/d/1gEPdDIOTo_yAYjghVpA4DWupwjheYvfP/view
+Screenshot-<img width="895" alt="Screenshot 2023-10-03 123524" src="https://github.com/robbi19/NoSQL-Challenge-Social-Network-API/assets/128949831/ce420df2-af4a-4654-bdc9-f200225c3327">
+<img width="895" alt="Screenshot 2023-10-03 123524" src="https://github.com/robbi19/NoSQL-Challenge-Social-Network-API/assets/128949831/a81e0b3f-b7f2-47e4-81bd-8cfee1a88f06">
 
-Screenshoot:
+
